@@ -18,6 +18,6 @@ SPDX-License-Identifier: MIT
 
 ## Disclaimer
 
-macOS is a registered trademark of Apple Inc. in the United States and other countries.\
+OS X and macOS are registered trademarks of Apple Inc. in the United States and other countries.\
 This project is an independent tool and is not affiliated with, endorsed by, or sponsored\
 by Apple Inc. or any of its subsidiaries.
