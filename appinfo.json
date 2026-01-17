@@ -1,0 +1,15 @@
+{
+    "files": {
+        "icon": { "path": "icon.png", "type": "png" },
+        "executable": "Test",
+        "resources": []
+    },
+    "meta": {
+        "bundlename": "Test",
+        "copyright": "Copyright (c) 2025 Wdboyes13",
+        "description": "A test app",
+        "bundleid": "ca.weelam.test",
+        "version": "1.0.0",
+        "osxminimum": "10.15"
+    }
+}
