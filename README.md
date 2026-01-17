@@ -1,4 +1,4 @@
-# mac_appgen - A tool for generating macOS Apps
+# mac_appgen - A tool for generating macOS® Apps
 
 ## Requirements
 
@@ -18,6 +18,6 @@ SPDX-License-Identifier: MIT
 
 ## Disclaimer
 
-OS X and macOS are registered trademarks of Apple Inc. in the United States and other countries.\
+Mac and macOS are registered trademarks of Apple Inc. in the United States and other countries and regions.\
 This project is an independent tool and is not affiliated with, endorsed by, or sponsored\
 by Apple Inc. or any of its subsidiaries.
