@@ -7,22 +7,17 @@
 
 ## Installation
 
-Install with `pip install mac_appgen` and run with `python3 -mmac_appgen`
-
+Install with `pip install mac_appgen` and run with `python3 -mmac_appgen`\
 To use check out the example [appinfo.json](/appinfo.json)
 
 ## License
 
-Copyright (c) 2025-2026 Wdboyes13
-
-Licensed under the MIT License
-
+Copyright (c) 2025-2026 Wdboyes13\
+Licensed under the MIT License\
 SPDX-License-Identifier: MIT
 
 ## Disclaimer
 
-OS X and macOS are registered trademarks of Apple Inc. in the United States and other countries.
-
-This project is an independent tool and is not affiliated with, endorsed by, or sponsored
-
+OS X and macOS are registered trademarks of Apple Inc. in the United States and other countries.\
+This project is an independent tool and is not affiliated with, endorsed by, or sponsored\
 by Apple Inc. or any of its subsidiaries.
